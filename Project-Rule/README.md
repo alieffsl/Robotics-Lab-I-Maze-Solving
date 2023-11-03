@@ -34,19 +34,8 @@ Praktikum  Eksperimen  Robotika  1  merupakan  praktikum  berbasis  project  yan
 
 720 1710 ![](Aspose.Words.18839ba6-f4df-4bf7-92cd-93d3eefa9c9b.004.png)![](Aspose.Words.18839ba6-f4df-4bf7-92cd-93d3eefa9c9b.005.png)![](Aspose.Words.18839ba6-f4df-4bf7-92cd-93d3eefa9c9b.006.png)150
 
-460
 
-3
-
-4
-
-2505
-
-2
-
-![](Aspose.Words.18839ba6-f4df-4bf7-92cd-93d3eefa9c9b.007.png) 1030 910 1
-
-2505
+![](Aspose.Words.18839ba6-f4df-4bf7-92cd-93d3eefa9c9b.007.png)
 
 Gambar 3. Arena Robot 
 
